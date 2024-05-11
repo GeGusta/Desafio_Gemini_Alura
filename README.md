@@ -7,3 +7,11 @@ Este é um projeto de avaliação de currículo e da relação dele com uma desc
 * **Funcionalidades**
 * **Conclusão**
 * **Contato**
+
+### Implementação
+
+### Funcionalidades
+
+### Conclusão
+
+### Contato
